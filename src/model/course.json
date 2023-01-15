@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "yourname": "Abduahad",
+        "title": "Full Stack (NodeJS + VueJS) devoloper",
+        "sms": "Payshanba",
+        "rasm": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1127977/secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png"
+    },
+    {
+        "id": 2,
+        "yourname": "masterusmanov",
+        "title": "frontend",
+        "sms": "Dushanba",
+        "rasm": "https://media.proglib.io/wp-uploads/2019/01/CoM-The-Ultimate-Front-End-Development-Bundle-1280x660.jpg"
+    }
+]

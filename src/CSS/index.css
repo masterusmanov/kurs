@@ -1,0 +1,174 @@
+.menu{
+    width: 800px;
+    height: 0px;
+    display: flex;
+    padding: 368px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* #dvmmrs{
+    position: absolute;
+    margin-top: -345px;
+    margin-left: -350px;
+    width: 1500px;
+} */
+
+#mmrs{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.cub{
+    top: 15%;
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    left: 1000px;
+}
+
+.wordsincub{
+    position: absolute;
+    font-size: 40px;
+    color: white;
+    left: 20%;
+    margin-top: 10px;
+}
+
+.username{
+    position: absolute;
+    top: 90px;
+    left: 6%;
+    font-size: 15px;
+    color: white;
+}
+
+
+#yourname{
+    position: absolute;
+    top: 120px;
+    left: 5%;
+    background-color: white;
+    color: black;
+    width: 440px;
+    height: 30px;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: rgb(9, 9, 96);
+}
+
+.title{
+    position: absolute;
+    top: 190px;
+    left:6%;
+    font-size: 15px;
+    color: white;
+}
+
+#title{
+    position: absolute;
+    top: 220px;
+    left: 5%;
+    background-color: white;
+    color: black;
+    width: 440px;
+    height: 30px;
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: rgb(9, 9, 96);
+}
+
+.message{
+    position: absolute;
+    top: 290px;
+    left: 6%;
+    font-size: 15px;
+    color: white;
+}
+
+#sms{
+    position: absolute;
+    top: 320px;
+    left: 5%;
+    background-color: white;
+    color: black;
+    width: 440px;
+    height: 30px;
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: rgb(9, 9, 96);
+}
+
+.tags{
+    position: absolute;
+    top: 390px;
+    left:6%;
+    font-size: 15px;
+    color: white;
+}
+
+#rasm{
+    position: absolute;
+    top: 420px;
+    left: 5%;
+    background-color: white;
+    color: black;
+    width: 440px;
+    height: 30px;
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: rgb(9, 9, 96);
+}
+
+#but{
+    position: absolute;
+    top: 500px;
+    left: 15%;
+    height: 70px;
+    width: 150px;
+    background-color: rgb(63, 63, 255);
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+#but:hover{
+    background-color: white;
+    color: rgb(63, 63, 255);
+}
+
+#but1{
+    position: absolute;
+    top: 500px;
+    left: 55%;
+    height: 70px;
+    width: 150px;
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+#but1:hover{
+    background-color: white;
+    color: red;
+}
+
+    body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#demo{
+    background-color: lawngreen;
+    border-radius: 15px;
+}
